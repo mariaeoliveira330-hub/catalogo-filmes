@@ -1,0 +1,122 @@
+{
+  "movies": [
+    {
+      "title": "Senhor dos Anéis: A Sociedade do Anel",
+      "category": "Fantasia / Aventura",
+      "year": "2001",
+      "rating": "9",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/3/38/Lord_of_the_Rings_Fellowship_of_the_Ring.jpg",
+      "synopsis": "Um jovem hobbit chamado Frodo recebe um anel mágico e perigoso que precisa ser destruído antes que caia nas mãos do Senhor das Trevas, Sauron. Ao lado de seus amigos e aliados, ele inicia uma jornada épica pela Terra Média.",
+      "id": "9FDLJIaBlW4"
+    },
+    {
+      "title": "Harry Potter e a Pedra Filosofal",
+      "category": "Fantasia",
+      "year": "2001",
+      "rating": "8.5",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.T5zfk2PAT2NTP50HGhpbTQHaLH?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "synopsis": "Harry Potter é um garoto órfão que vive com seus tios e desconhece sua verdadeira origem. Ao completar 11 anos, ele descobre que é um bruxo e recebe um convite para estudar na escola de magia Hogwarts. Lá, Harry faz novos amigos, aprende feitiços e começa a descobrir segredos sobre seus pais e sobre o bruxo das trevas Voldemort, que marcou sua vida ainda quando bebê.",
+      "id": "Yk8nCMYuMVY"
+    },
+    {
+      "title": "Titanic",
+      "category": "Romance / Drama",
+      "year": "1997",
+      "rating": "8.8",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.mfYqawzjIKaio6dptdJGEQHaK4?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "synopsis": "Durante a viagem inaugural do luxuoso navio Titanic, Rose, uma jovem da alta sociedade, conhece Jack, um artista humilde e aventureiro. Apesar das diferenças sociais, os dois se apaixonam intensamente enquanto vivem momentos inesquecíveis a bordo. Porém, a tragédia acontece quando o navio colide com um iceberg, obrigando os passageiros a lutarem pela sobrevivência em meio ao caos e ao desespero.",
+      "id": "VsVLwudy74M"
+    },
+    {
+      "title": "Titanic",
+      "category": "Romance / Drama",
+      "year": "1997",
+      "rating": "8.8",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.mfYqawzjIKaio6dptdJGEQHaK4?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "synopsis": "Durante a viagem inaugural do luxuoso navio Titanic, Rose, uma jovem da alta sociedade, conhece Jack, um artista humilde e aventureiro. Apesar das diferenças sociais, os dois se apaixonam intensamente enquanto vivem momentos inesquecíveis a bordo. Porém, a tragédia acontece quando o navio colide com um iceberg, obrigando os passageiros a lutarem pela sobrevivência em meio ao caos e ao desespero.",
+      "id": "wI0RCp-z1jY"
+    },
+    {
+      "title": "Titanic",
+      "category": "Romance / Drama",
+      "year": "1997",
+      "rating": "8.8",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.mfYqawzjIKaio6dptdJGEQHaK4?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "synopsis": "Durante a viagem inaugural do luxuoso navio Titanic, Rose, uma jovem da alta sociedade, conhece Jack, um artista humilde e aventureiro. Apesar das diferenças sociais, os dois se apaixonam intensamente enquanto vivem momentos inesquecíveis a bordo. Porém, a tragédia acontece quando o navio colide com um iceberg, obrigando os passageiros a lutarem pela sobrevivência em meio ao caos e ao desespero.",
+      "id": "HfXJTsIHs2c"
+    },
+    {
+      "title": "Titanic",
+      "category": "Romance / Drama",
+      "year": "1997",
+      "rating": "8.8",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.mfYqawzjIKaio6dptdJGEQHaK4?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "synopsis": "Durante a viagem inaugural do luxuoso navio Titanic, Rose, uma jovem da alta sociedade, conhece Jack, um artista humilde e aventureiro. Apesar das diferenças sociais, os dois se apaixonam intensamente enquanto vivem momentos inesquecíveis a bordo. Porém, a tragédia acontece quando o navio colide com um iceberg, obrigando os passageiros a lutarem pela sobrevivência em meio ao caos e ao desespero.",
+      "id": "bbVeh6vgY_U"
+    },
+    {
+      "title": "Titanic",
+      "category": "Romance / Drama",
+      "year": "1997",
+      "rating": "8.8",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.mfYqawzjIKaio6dptdJGEQHaK4?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "synopsis": "Durante a viagem inaugural do luxuoso navio Titanic, Rose, uma jovem da alta sociedade, conhece Jack, um artista humilde e aventureiro. Apesar das diferenças sociais, os dois se apaixonam intensamente enquanto vivem momentos inesquecíveis a bordo. Porém, a tragédia acontece quando o navio colide com um iceberg, obrigando os passageiros a lutarem pela sobrevivência em meio ao caos e ao desespero.",
+      "id": "B141Dn0C9IE"
+    },
+    {
+      "title": "Titanic",
+      "category": "Romance / Drama",
+      "year": "1997",
+      "rating": "8.8",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.mfYqawzjIKaio6dptdJGEQHaK4?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "synopsis": "Durante a viagem inaugural do luxuoso navio Titanic, Rose, uma jovem da alta sociedade, conhece Jack, um artista humilde e aventureiro. Apesar das diferenças sociais, os dois se apaixonam intensamente enquanto vivem momentos inesquecíveis a bordo. Porém, a tragédia acontece quando o navio colide com um iceberg, obrigando os passageiros a lutarem pela sobrevivência em meio ao caos e ao desespero.",
+      "id": "tS-HP8k9HyY"
+    },
+    {
+      "title": "Titanic",
+      "category": "Romance / Drama",
+      "year": "1997",
+      "rating": "8.8",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.mfYqawzjIKaio6dptdJGEQHaK4?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "synopsis": "Durante a viagem inaugural do luxuoso navio Titanic, Rose, uma jovem da alta sociedade, conhece Jack, um artista humilde e aventureiro. Apesar das diferenças sociais, os dois se apaixonam intensamente enquanto vivem momentos inesquecíveis a bordo. Porém, a tragédia acontece quando o navio colide com um iceberg, obrigando os passageiros a lutarem pela sobrevivência em meio ao caos e ao desespero.",
+      "id": "7mMTLG2fCxs"
+    },
+    {
+      "title": "Titanic",
+      "category": "Romance / Drama",
+      "year": "1997",
+      "rating": "8.8",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.mfYqawzjIKaio6dptdJGEQHaK4?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "synopsis": "Durante a viagem inaugural do luxuoso navio Titanic, Rose, uma jovem da alta sociedade, conhece Jack, um artista humilde e aventureiro. Apesar das diferenças sociais, os dois se apaixonam intensamente enquanto vivem momentos inesquecíveis a bordo. Porém, a tragédia acontece quando o navio colide com um iceberg, obrigando os passageiros a lutarem pela sobrevivência em meio ao caos e ao desespero.",
+      "id": "77zQkpX34f0"
+    },
+    {
+      "title": "Titanic",
+      "category": "Romance / Drama",
+      "year": "1997",
+      "rating": "8.8",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.mfYqawzjIKaio6dptdJGEQHaK4?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "synopsis": "Durante a viagem inaugural do luxuoso navio Titanic, Rose, uma jovem da alta sociedade, conhece Jack, um artista humilde e aventureiro. Apesar das diferenças sociais, os dois se apaixonam intensamente enquanto vivem momentos inesquecíveis a bordo. Porém, a tragédia acontece quando o navio colide com um iceberg, obrigando os passageiros a lutarem pela sobrevivência em meio ao caos e ao desespero.",
+      "id": "dva6OmXC7Ys"
+    },
+    {
+      "title": "Titanic",
+      "category": "Romance / Drama",
+      "year": "1997",
+      "rating": "8.8",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.mfYqawzjIKaio6dptdJGEQHaK4?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "synopsis": "Durante a viagem inaugural do luxuoso navio Titanic, Rose, uma jovem da alta sociedade, conhece Jack, um artista humilde e aventureiro. Apesar das diferenças sociais, os dois se apaixonam intensamente enquanto vivem momentos inesquecíveis a bordo. Porém, a tragédia acontece quando o navio colide com um iceberg, obrigando os passageiros a lutarem pela sobrevivência em meio ao caos e ao desespero.",
+      "id": "UGGmd94s3bo"
+    },
+    {
+      "title": "Titanic",
+      "category": "Romance / Drama",
+      "year": "1997",
+      "rating": "8.8",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.mfYqawzjIKaio6dptdJGEQHaK4?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "synopsis": "Durante a viagem inaugural do luxuoso navio Titanic, Rose, uma jovem da alta sociedade, conhece Jack, um artista humilde e aventureiro. Apesar das diferenças sociais, os dois se apaixonam intensamente enquanto vivem momentos inesquecíveis a bordo. Porém, a tragédia acontece quando o navio colide com um iceberg, obrigando os passageiros a lutarem pela sobrevivência em meio ao caos e ao desespero.",
+      "id": "UT_rQvuPD-I"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
